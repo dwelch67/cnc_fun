@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="612pt"
+   height="792pt"
+   viewBox="0 0 612 792"
+   version="1.1"
+   id="svg71"
+   sodipodi:docname="knot0.svg"
+   inkscape:version="1.2.1 (1:1.2.1+202210291244+9c6d41e410)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs75" />
+  <sodipodi:namedview
+     id="namedview73"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:zoom="1.7878788"
+     inkscape:cx="236.0339"
+     inkscape:cy="813.25424"
+     inkscape:window-width="1920"
+     inkscape:window-height="1114"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg71" />
+  <g
+     id="surface1">
+    <path
+       id="path2"
+       style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;"
+       d="M 1399.9951 1900.0049 L 1399.9951 900 L 900 900 L 900 1399.9951 L 1300.0049 1399.9951 L 1300.0049 1500 L 900 1500 L 799.99512 1500 L 799.99512 1399.9951 L 799.99512 900 L 799.99512 799.99512 L 1500 799.99512 L 1500 900 L 1500 1900.0049 L 1399.9951 1900.0049 z "
+       transform="matrix(0.1,0,0,-0.1,0,792)" />
+    <path
+       id="path4"
+       style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;"
+       d="M 799.99512 2700 L 799.99512 2599.9951 L 799.99512 2100 L 799.99512 1999.9951 L 1900.0049 1999.9951 L 1900.0049 2100 L 900 2100 L 900 2599.9951 L 1300.0049 2599.9951 L 1300.0049 2700 L 900 2700 L 799.99512 2700 z "
+       transform="matrix(0.1,0,0,-0.1,0,792)" />
+    <path
+       id="path6"
+       style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;"
+       d="M 2200.0049 2100 L 2200.0049 1999.9951 L 3199.9951 1999.9951 L 3199.9951 1500 L 2800.0049 1500 L 2800.0049 1399.9951 L 3199.9951 1399.9951 L 3300 1399.9951 L 3300 1500 L 3300 2100 L 2200.0049 2100 z "
+       transform="matrix(0.1,0,0,-0.1,0,792)" />
+    <path
+       id="path8"
+       style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;"
+       d="M 2599.9951 3300 L 2599.9951 3199.9951 L 2599.9951 2200.0049 L 2700 2200.0049 L 2700 3199.9951 L 3199.9951 3199.9951 L 3199.9951 2700 L 2800.0049 2700 L 2800.0049 2599.9951 L 3199.9951 2599.9951 L 3300 2599.9951 L 3300 2700 L 3300 3300 L 2700 3300 L 2599.9951 3300 z "
+       transform="matrix(0.1,0,0,-0.1,0,792)" />
+    <path
+       id="path12"
+       style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;"
+       d="M 1399.9951 3300 L 1399.9951 3199.9951 L 1399.9951 2200.0049 L 1500 2200.0049 L 1500 3199.9951 L 1999.9951 3199.9951 L 1999.9951 2800.0049 L 2100 2800.0049 L 2100 3199.9951 L 2100 3300 L 1999.9951 3300 L 1500 3300 L 1399.9951 3300 z "
+       transform="matrix(0.1,0,0,-0.1,0,792)" />
+    <path
+       id="path14"
+       style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;"
+       d="M 2599.9951 1900.0049 L 2599.9951 900 L 2100 900 L 2100 1300.0049 L 1999.9951 1300.0049 L 1999.9951 900 L 1999.9951 799.99512 L 2100 799.99512 L 2700 799.99512 L 2700 900 L 2700 1900.0049 L 2599.9951 1900.0049 z "
+       transform="matrix(0.1,0,0,-0.1,0,792)" />
+    <path
+       style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;"
+       d="M 2000 1600 L 2000 2500 L 2100 2500 L 2100 1600 L 2000 1600 "
+       transform="matrix(0.1,0,0,-0.1,0,792)"
+       id="path16" />
+    <path
+       style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;"
+       d="M 1600 1400 L 1600 1500 L 2500 1500 L 2500 1400 L 1600 1400 "
+       transform="matrix(0.1,0,0,-0.1,0,792)"
+       id="path34" />
+    <path
+       style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;"
+       d="M 1600 2600 L 1600 2700 L 2500 2700 L 2500 2600 L 1600 2600 "
+       transform="matrix(0.1,0,0,-0.1,0,792)"
+       id="path44" />
+    <path
+       style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;"
+       d="M 1000 1000 L 1000 1300 L 1300 1300 L 1300 1000 L 1000 1000 "
+       transform="matrix(0.1,0,0,-0.1,0,792)"
+       id="path48" />
+    <path
+       style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;"
+       d="M 2200 1000 L 2200 1300 L 2500 1300 L 2500 1000 L 2200 1000 "
+       transform="matrix(0.1,0,0,-0.1,0,792)"
+       id="path50" />
+    <path
+       style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;"
+       d="M 1600 1600 L 1600 1900 L 1900 1900 L 1900 1600 L 1600 1600 "
+       transform="matrix(0.1,0,0,-0.1,0,792)"
+       id="path52" />
+    <path
+       style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;"
+       d="M 2200 1600 L 2200 1900 L 2500 1900 L 2500 1600 L 2200 1600 "
+       transform="matrix(0.1,0,0,-0.1,0,792)"
+       id="path54" />
+    <path
+       style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;"
+       d="M 2800 1600 L 2800 1900 L 3100 1900 L 3100 1600 L 2800 1600 "
+       transform="matrix(0.1,0,0,-0.1,0,792)"
+       id="path56" />
+    <path
+       style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;"
+       d="M 1000 2200 L 1000 2500 L 1300 2500 L 1300 2200 L 1000 2200 "
+       transform="matrix(0.1,0,0,-0.1,0,792)"
+       id="path58" />
+    <path
+       style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;"
+       d="M 1600 2200 L 1600 2500 L 1900 2500 L 1900 2200 L 1600 2200 "
+       transform="matrix(0.1,0,0,-0.1,0,792)"
+       id="path60" />
+    <path
+       style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;"
+       d="M 2200 2200 L 2200 2500 L 2500 2500 L 2500 2200 L 2200 2200 "
+       transform="matrix(0.1,0,0,-0.1,0,792)"
+       id="path62" />
+    <path
+       style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;"
+       d="M 1600 2800 L 1600 3100 L 1900 3100 L 1900 2800 L 1600 2800 "
+       transform="matrix(0.1,0,0,-0.1,0,792)"
+       id="path64" />
+    <path
+       style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;"
+       d="M 2800 2800 L 2800 3100 L 3100 3100 L 3100 2800 L 2800 2800 "
+       transform="matrix(0.1,0,0,-0.1,0,792)"
+       id="path66" />
+    <path
+       style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;"
+       d="M 700 700 L 700 1600 L 1300 1600 L 1300 1900 L 700 1900 L 700 2800 L 1300 2800 L 1300 3400 L 2200 3400 L 2200 2800 L 2500 2800 L 2500 3400 L 3400 3400 L 3400 2500 L 2800 2500 L 2800 2200 L 3400 2200 L 3400 1300 L 2800 1300 L 2800 700 L 1900 700 L 1900 1300 L 1600 1300 L 1600 700 Z M 700 700 "
+       transform="matrix(0.1,0,0,-0.1,0,792)"
+       id="path68" />
+  </g>
+</svg>
